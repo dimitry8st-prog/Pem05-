@@ -1,0 +1,7 @@
+# Contract Wizard Bot — зависимости
+python-telegram-bot==21.6
+anthropic>=0.34.0
+pdfplumber>=0.11.0
+PyPDF2>=3.0.0
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0

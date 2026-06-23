@@ -1,0 +1,29 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Переменные окружения (СЕКРЕТЫ!)
+.env
+
+# База данных (слишком большая для GitHub)
+*.db
+contract_wizard.db
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Папка загрузок (пользовательские файлы)
+uploads/
+
+# IDE и системные файлы
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
